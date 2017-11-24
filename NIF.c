@@ -34,6 +34,6 @@ int nif(char *numero) {
     letra[20]="C";
     letra[21]="K";
     letra[22]="E";
-    printf("\n\nTu letra es: %s\n",letra[resultado]);
+    printf("\nTu letra es: %s\n",letra[resultado]);
 }
 
